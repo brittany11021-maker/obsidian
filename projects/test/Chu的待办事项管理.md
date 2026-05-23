@@ -1,5 +1,5 @@
 ---
-date: 2026-05-22
+date: 2026-05-23
 agent: test
 project: Chu的待办事项管理
 status: active
@@ -14,10 +14,10 @@ tags: [project, knowledge-graph]
 🟢 Active
 
 ## 核心概念
-[[每日任务]] · [[任务清单]] · [[未完成]] · [[提醒]]
+[[任务]] · [[清单]] · [[提醒]] · [[每日任务]] · [[未完成项]]
 
 ## 积累认知
 _暂无相关 L2 记忆_
 
 ## 关联节点
-[[memory-nodes/test/2026-05-22]]
+[[memory-nodes/test/2026-05-23]]
