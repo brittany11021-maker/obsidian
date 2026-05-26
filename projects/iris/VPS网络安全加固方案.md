@@ -1,5 +1,5 @@
 ---
-date: 2026-05-25
+date: 2026-05-26
 agent: iris
 project: VPS网络安全加固方案
 status: active
@@ -20,4 +20,4 @@ tags: [project, knowledge-graph]
 _暂无相关 L2 记忆_
 
 ## 关联节点
-[[memory-nodes/iris/2026-05-25]]
+[[memory-nodes/iris/2026-05-26]]
