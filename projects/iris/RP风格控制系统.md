@@ -1,5 +1,5 @@
 ---
-date: 2026-05-25
+date: 2026-05-26
 agent: iris
 project: RP风格控制系统
 status: active
@@ -14,10 +14,10 @@ tags: [project, knowledge-graph]
 🟢 Active
 
 ## 核心概念
-[[角色声音]] · [[叙述风格]] · [[Prompt工程]] · [[TTS集成]] · [[网关管理]]
+[[角色声音]] · [[文学叙述]] · [[Prompt工程]] · [[TTS集成]] · [[网关管理]]
 
 ## 积累认知
 _暂无相关 L2 记忆_
 
 ## 关联节点
-[[memory-nodes/iris/2026-05-25]]
+[[memory-nodes/iris/2026-05-26]]
