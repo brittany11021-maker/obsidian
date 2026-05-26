@@ -1,5 +1,5 @@
 ---
-date: 2026-05-25
+date: 2026-05-26
 agent: iris
 project: Art portfolio and French application con
 status: active
@@ -14,10 +14,10 @@ tags: [project, knowledge-graph]
 🟢 Active
 
 ## 核心概念
-[[概念图]] · [[艺术档案]] · [[思维澄清]] · [[M1申请]] · [[作品集]]
+[[概念地图]] · [[艺术档案]] · [[申请展示]] · [[思维梳理]] · [[交互工具]]
 
 ## 积累认知
 _暂无相关 L2 记忆_
 
 ## 关联节点
-[[memory-nodes/iris/2026-05-25]]
+[[memory-nodes/iris/2026-05-26]]
