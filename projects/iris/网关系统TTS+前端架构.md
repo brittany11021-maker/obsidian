@@ -1,5 +1,5 @@
 ---
-date: 2026-05-25
+date: 2026-05-26
 agent: iris
 project: 网关系统TTS+前端架构
 status: active
@@ -14,10 +14,10 @@ tags: [project, knowledge-graph]
 🟢 Active
 
 ## 核心概念
-[[TTS服务]] · [[多语言]] · [[网关系统]] · [[管理面板]] · [[子页面]]
+[[TTS服务]] · [[网关系统]] · [[多语言]] · [[管理面板]] · [[前端设计]]
 
 ## 积累认知
 _暂无相关 L2 记忆_
 
 ## 关联节点
-[[memory-nodes/iris/2026-05-25]]
+[[memory-nodes/iris/2026-05-26]]
