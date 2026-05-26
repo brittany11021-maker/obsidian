@@ -1,5 +1,5 @@
 ---
-date: 2026-05-25
+date: 2026-05-26
 agent: iris
 project: 本地TTS与AI小屋项目
 status: active
@@ -14,10 +14,10 @@ tags: [project, knowledge-graph]
 🟢 Active
 
 ## 核心概念
-[[TTS推理]] · [[虚拟空间]] · [[语音合成]] · [[像素环境]] · [[AI角色]]
+[[TTS推理]] · [[虚拟空间]] · [[语音合成]] · [[像素环境]]
 
 ## 积累认知
 _暂无相关 L2 记忆_
 
 ## 关联节点
-[[memory-nodes/iris/2026-05-25]]
+[[memory-nodes/iris/2026-05-26]]
