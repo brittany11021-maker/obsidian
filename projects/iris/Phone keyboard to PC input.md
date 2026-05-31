@@ -1,5 +1,5 @@
 ---
-date: 2026-05-26
+date: 2026-05-31
 agent: iris
 project: Phone keyboard to PC input
 status: active
@@ -14,10 +14,10 @@ tags: [project, knowledge-graph]
 🟢 Active
 
 ## 核心概念
-[[9键输入]] · [[远程输入]] · [[躺卧场景]] · [[手机PC联动]] · [[文字输入]]
+[[远程输入]] · [[9键输入]] · [[躺卧输入]] · [[手机遥控]] · [[PC输入]]
 
 ## 积累认知
 _暂无相关 L2 记忆_
 
 ## 关联节点
-[[memory-nodes/iris/2026-05-26]]
+[[memory-nodes/iris/2026-05-31]]
