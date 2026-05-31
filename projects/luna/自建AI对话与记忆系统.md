@@ -1,5 +1,5 @@
 ---
-date: 2026-05-25
+date: 2026-05-31
 agent: luna
 project: 自建AI对话与记忆系统
 status: active
@@ -14,10 +14,10 @@ tags: [project, knowledge-graph]
 🟢 Active
 
 ## 核心概念
-[[本地AI]] · [[情感记忆]] · [[MCP工具]] · [[硬件扩展]] · [[对话系统]]
+[[本地化AI]] · [[情感分层]] · [[记忆系统]] · [[MCP工具]] · [[前端可换]]
 
 ## 积累认知
 _暂无相关 L2 记忆_
 
 ## 关联节点
-[[memory-nodes/luna/2026-05-25]]
+[[memory-nodes/luna/2026-05-31]]
