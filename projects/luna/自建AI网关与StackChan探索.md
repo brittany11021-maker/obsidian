@@ -1,5 +1,5 @@
 ---
-date: 2026-05-25
+date: 2026-05-31
 agent: luna
 project: 自建AI网关与StackChan探索
 status: active
@@ -20,4 +20,4 @@ tags: [project, knowledge-graph]
 _暂无相关 L2 记忆_
 
 ## 关联节点
-[[memory-nodes/luna/2026-05-25]]
+[[memory-nodes/luna/2026-05-31]]
