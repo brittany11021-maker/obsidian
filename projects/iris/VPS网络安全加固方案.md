@@ -1,5 +1,5 @@
 ---
-date: 2026-05-26
+date: 2026-05-31
 agent: iris
 project: VPS网络安全加固方案
 status: active
@@ -14,10 +14,10 @@ tags: [project, knowledge-graph]
 🟢 Active
 
 ## 核心概念
-[[VPS安全]] · [[攻击面收缩]] · [[Cloudflare认证]] · [[SSH加固]] · [[定时扫描]]
+[[VPS安全]] · [[Cloudflare]] · [[SSH加固]] · [[攻击面]] · [[自动化防御]]
 
 ## 积累认知
 _暂无相关 L2 记忆_
 
 ## 关联节点
-[[memory-nodes/iris/2026-05-26]]
+[[memory-nodes/iris/2026-05-31]]
