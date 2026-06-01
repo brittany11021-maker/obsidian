@@ -1,5 +1,5 @@
 ---
-date: 2026-05-31
+date: 2026-06-01
 agent: iris
 project: AI网关上下文管理系统
 status: active
@@ -20,4 +20,4 @@ tags: [project, knowledge-graph]
 _暂无相关 L2 记忆_
 
 ## 关联节点
-[[memory-nodes/iris/2026-05-31]]
+[[memory-nodes/iris/2026-06-01]]
