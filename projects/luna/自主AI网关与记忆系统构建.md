@@ -1,5 +1,5 @@
 ---
-date: 2026-05-31
+date: 2026-06-01
 agent: luna
 project: 自主AI网关与记忆系统构建
 status: active
@@ -14,10 +14,10 @@ tags: [project, knowledge-graph]
 🟢 Active
 
 ## 核心概念
-[[前端-网关架构]] · [[本地记忆]] · [[自主可控]] · [[情感浓度]] · [[智能排序]]
+[[自主记忆]] · [[前端网关]] · [[情感浓度]] · [[智能排序]] · [[对话自由]]
 
 ## 积累认知
 _暂无相关 L2 记忆_
 
 ## 关联节点
-[[memory-nodes/luna/2026-05-31]]
+[[memory-nodes/luna/2026-06-01]]
