@@ -1,5 +1,5 @@
 ---
-date: 2026-05-31
+date: 2026-06-01
 agent: luna
 project: Kelivo功能探索
 status: active
@@ -14,10 +14,10 @@ tags: [project, knowledge-graph]
 🟢 Active
 
 ## 核心概念
-[[Kelivo]] · [[Bing搜索]] · [[实时信息]] · [[前端集成]] · [[测试]]
+[[Bing搜索]] · [[前端集成]] · [[实时信息]] · [[Kelivo测试]] · [[能力验证]]
 
 ## 积累认知
 _暂无相关 L2 记忆_
 
 ## 关联节点
-[[memory-nodes/luna/2026-05-31]]
+[[memory-nodes/luna/2026-06-01]]
