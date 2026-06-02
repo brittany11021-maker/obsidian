@@ -1,5 +1,5 @@
 ---
-date: 2026-06-01
+date: 2026-06-02
 agent: iris
 project: AI网关上下文管理系统
 status: active
@@ -14,10 +14,10 @@ tags: [project, knowledge-graph]
 🟢 Active
 
 ## 核心概念
-[[上下文压缩]] · [[Agent分流]] · [[缓存优化]] · [[故障处理]] · [[反偏差督导]]
+[[上下文压缩]] · [[结构化摘要]] · [[反偏差督导]] · [[缓存优化]] · [[故障处理]]
 
 ## 积累认知
 _暂无相关 L2 记忆_
 
 ## 关联节点
-[[memory-nodes/iris/2026-06-01]]
+[[memory-nodes/iris/2026-06-02]]
