@@ -1,5 +1,5 @@
 ---
-date: 2026-06-01
+date: 2026-06-02
 agent: luna
 project: 本地化AI记忆与对话架构
 status: active
@@ -14,10 +14,10 @@ tags: [project, knowledge-graph]
 🟢 Active
 
 ## 核心概念
-[[情感浓度]] · [[分层记忆]] · [[本地存储]] · [[MCP扩展]] · [[前端可换]]
+[[记忆分层]] · [[情感浓度]] · [[MCP扩展]] · [[本地存储]] · [[前端可换]]
 
 ## 积累认知
 _暂无相关 L2 记忆_
 
 ## 关联节点
-[[memory-nodes/luna/2026-06-01]]
+[[memory-nodes/luna/2026-06-02]]
