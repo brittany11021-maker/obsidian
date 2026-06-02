@@ -1,5 +1,5 @@
 ---
-date: 2026-06-01
+date: 2026-06-02
 agent: iris
 project: Phone keyboard to PC input
 status: active
@@ -20,4 +20,4 @@ tags: [project, knowledge-graph]
 _暂无相关 L2 记忆_
 
 ## 关联节点
-[[memory-nodes/iris/2026-06-01]]
+[[memory-nodes/iris/2026-06-02]]
